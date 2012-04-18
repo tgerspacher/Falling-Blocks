@@ -12,6 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
+// telk;sajl;dsjflsdaij
 // author: Todd Gerspacher
 // use jpanel so it can be placed in either jframe or japplet
 public class FallingBlocks extends JPanel implements KeyListener, ActionListener
